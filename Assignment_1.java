@@ -1,3 +1,4 @@
+// Write a JAVA program to make the calculator which will perform Addition, Subtraction, Multiplication and Division using Switch Case.
 import java.util.Scanner;
 class Assignment_1 // Calculator
 {
